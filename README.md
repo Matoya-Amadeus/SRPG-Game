@@ -20,7 +20,7 @@
 
 - **版权声明**  
   ⚠️ 所有资源著作权均归属原厂商，请通过[正版渠道](https://store.steampowered.com/)购买游戏  
-  🔗 本仓库内容仅作学习交流使用，请及时补票购买正版
+  🔗 本仓库内容仅作学习交流使用，您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。
 
 </details>
 
@@ -34,7 +34,8 @@
 
 - **Copyright**  
   ⚠️ All game copyrights belong to original developers. Please purchase games through [official stores](https://store.steampowered.com/)  
-  🔗 The contents of this repository are for learning and communication purposes only. Please purchase the official version in a timely manner.
+  🔗 The contents of this repository are for learning and communication purposes only. 
+You must completely delete the above content from your computer within 24 hours after downloading. If you like the program, please support the genuine software by purchasing and registering to obtain better official services.
 
 </details>
 
